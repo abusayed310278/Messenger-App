@@ -11,6 +11,4 @@ Message Deletion: Delete messages on demand with real-time updates.
 Pagination and UI Efficiency: Smooth pagination for optimal performance in large conversations.
 Ideal for building modern messaging solutions with interactive, engaging user experience.
 
-login credencial:
-gmail: admin@gmail.com
-pass: password
+
